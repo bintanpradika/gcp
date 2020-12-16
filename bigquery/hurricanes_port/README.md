@@ -1,3 +1,4 @@
 1. The objective of this project is to determine where is the safest location of port from hurricanes. In that way, company can decide to build new warehouse near port location with the safest condition
 2. Open the .ipynb file preferrably in google collabs to understand the structure of this .ipynb. You can achive this by replace "github.com" to "colab.research.google.com/github". For example, the URL on GitHub is https://github.com/bintanpradika/gcp/blob/main/bigquery/hurricanes_port/HurricanesPort.ipynb , it should be replaced to https://colab.research.google.com/github/bintanpradika/gcp/blob/main/bigquery/hurricanes_port/HurricanesPort.ipynb
 3. Copy the colab.research.google to you your drive by clicking "copy to drive"
+This code was build by referencing the workshop/hands on Lab from https://cloudonair.withgoogle.com/events/health-datasets that was build by Shane Glass

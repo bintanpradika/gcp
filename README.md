@@ -1,2 +1,2 @@
 # gcp
-Consist of severals project related to geoscience and petroleum engineering
+Consist of severals project related to gcp data analytics and/or ML/AI tool
